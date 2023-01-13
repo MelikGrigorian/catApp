@@ -1,0 +1,16 @@
+.SingleCat {
+  //   position: relative;
+  .catContainer {
+    width: fit-content;
+    margin: 20px auto;
+    img {
+      width: 400px;
+    }
+    .info {
+      p {
+        width: fit-content;
+        margin: 0 auto;
+      }
+    }
+  }
+}
